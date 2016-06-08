@@ -1,0 +1,5 @@
+*{margin:0; padding:0; font-family: Trebuchet MS;}
+
+/* item jogo */
+.item-jogo { width: 550px; background: #ccc; }
+.lbl-nome { font-size: 22px; }
